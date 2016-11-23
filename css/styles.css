@@ -18,7 +18,7 @@ article{
 
   border: 1px solid black;
 }
-p{
+.column-content-body p{
     padding: 8px;
 margin-top: 24px;
 }
